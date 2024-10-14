@@ -1,0 +1,5 @@
+0:00:07 - start page;
+0:00:11 - menu;
+0:00:15 - 0:01:21 - "player vs. player" game option;
+0:01:21 - game over screen;
+0:01:31 - 0:01:50 - "player vs. computer" game option;

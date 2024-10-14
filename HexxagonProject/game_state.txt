@@ -1,0 +1,2 @@
+Player 1 currently has 3 pearls on the board.
+Player 2 currently has 3 rubies on the board.
